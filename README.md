@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h1>Download the Database</h1>
+<strong>Create the database and the import this tables with data</strong>
+<a href="https://github.com/alcarazolabs/laravel-reports-with-charjs/blob/main/laravelreportes.sql">Download here</a>
+<h1>Demo images</h1>
+<img src="https://github.com/alcarazolabs/laravel-reports-with-charjs/blob/main/demo1.png">
+<img src="https://github.com/alcarazolabs/laravel-reports-with-charjs/blob/main/demo2.png">
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
